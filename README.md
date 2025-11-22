@@ -1,15 +1,20 @@
 # data-storytelling
-🎯 OVERVIEW: Complex -> Simple
-This agent transforms YouTube video transcripts into compelling social media posts using data storytelling principles. It's built on the foundation that data alone doesn't change minds—stories do.
-Core Philosophy
-DATA (reliable sources) + STORY (narrative structure) + AUDIENCE (relevance) = IMPACT
+**Data Storytelling Agent**
 
-A Gemini-powered agent that creates compelling social media posts using 
-data storytelling principles from Matthew Dicks, Michael Lewis, and other experts.
+*Make data accessible, fast.*
 
-📚 Core Principles:
-1. RELIABLE DATA: Every claim backed by transcript or verified web sources
-2. STORY STRUCTURE: Beginning (hook) → Middle (context) → End (revelation)
-3. AUDIENCE FOCUS: Tailored for 20s-30s professionals
-4. REVELATION: Clear "Aha!" moment
-5. CONSEQUENCES: Stakes, "So What?", real impact on audience
+An agent that transforms video transcripts into clear, engaging written content—because great insights deserve great storytelling.
+
+## What It Does
+- Processes video transcripts
+- Extracts key themes using NLP
+- Generates structured, reader-friendly content
+- Maintains narrative flow while improving clarity
+
+Stack: Python, Jupyter, Gemini API
+
+Status: 1st MVP, with Core features working, refining quality of the style and persuasion
+
+## Why I Built This
+As a BI Manager that loves to write and host a podcast, I needed to scale content creation without losing the human touch. This project combines my analytics background with my passion for storytelling—the same approach I bring to business problems.
+
